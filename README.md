@@ -1,4 +1,4 @@
-### Here is What I'm Working On
+### Here is What I'm Doing
 
 - I’m currently studying in university and in School 21 (Moscow Campus of Ecole 42)
 - I’m currently learning Pascal & C
