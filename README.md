@@ -7,4 +7,4 @@
 (I know some Ubuntu and dabbled in Debian)
 - Ask me about anything!
 
-I will mostly upload things I've done in code school here!
+I mostly upload things I've done in code school here
