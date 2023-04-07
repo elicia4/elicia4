@@ -1,5 +1,5 @@
 - My primary interests are system administration, Linux and networking.
-- I have mainly used Ubuntu and Arch (mainly ArcoLinux, but I can use other related distros too).
+- I have mainly used Ubuntu and Arch (I currently use ArcoLinux, but I can use other related distros too).
 - I know the basics of Docker.
 - I can write some simple bash scripts.
 - I use VM's daily.
