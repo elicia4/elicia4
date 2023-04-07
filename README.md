@@ -6,5 +6,5 @@
 - I can install and set up pretty much any mainstream Linux distribution.
 - I can set up a simple server (on Debian with Lighttpd/on Ubuntu with Apache,
 MariaDB and PHP).
-- I know some basic C/C++, HTML, CSS and JS. 
+- I know some basic C, C++, Python, Pascal, HTML, CSS and JS. 
 - I can code some primitive graphics and games.
