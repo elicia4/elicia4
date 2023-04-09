@@ -3,7 +3,7 @@
 - I know the basics of Docker.
 - I can write some simple bash scripts.
 - I use VM's daily. (QEMU/Virt Manager)
-- I can install and set up pretty much any mainstream Linux distribution.
+- I can set up the majority of modern Linux distributions.
 - I can set up a simple server. (on Debian with Lighttpd/on Ubuntu with Apache, I know <br />and used a tiny bit of MariaDB and PHP)
 - I know some basic C, C++, Python, Pascal, HTML, CSS and JS. 
 - I can code some primitive graphics and games.
