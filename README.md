@@ -1,9 +1,9 @@
-- My primary interests are system administration, Linux and networking.
-- I have mainly used Ubuntu and Arch. <br />(I currently use Arco, but I can use other related distros too).
+- My primary interests are system administration, Linux, and networking.
+- I have mainly used Ubuntu and Arch. <br />I currently use Arco, but I can use other related distros too.
 - I know the basics of Docker.
-- I can write some simple bash scripts.
-- I use VM's daily. (QEMU/Virt Manager)
+- I can write some simple Bash scripts.
+- I use VMs daily (QEMU/Virt Manager).
 - I can set up the majority of modern Linux distributions.
-- I can set up a simple server. (on Debian with Lighttpd/on Ubuntu with Apache, I know <br />and used a tiny bit of MariaDB and PHP)
-- I know some basic C, C++, Python, Pascal, HTML, CSS and JS. 
+- I can set up a simple server (on Debian with Lighttpd or on Ubuntu with Apache, I know <br />and used a tiny bit of MariaDB and PHP).
+- I know some basic C, C++, Python, Pascal, HTML, CSS, and JS. 
 - I can code some primitive graphics and games.
