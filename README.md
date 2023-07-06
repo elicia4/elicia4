@@ -9,6 +9,8 @@
 - I know a bit of HTML, CSS, and Markdown. 
 - I have experience creating primitive graphics and games.
 
+---
+
   I store my notes on various technologies on the following pages:
 
 - [OpenSSH Notes](https://github.com/elicia4/openssh-notes)
