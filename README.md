@@ -15,7 +15,6 @@
 
 - [OpenSSH Notes](https://github.com/elicia4/openssh-notes)
 - [Firewall Notes](https://github.com/elicia4/firewall-notes)
-- [Wireshark Notes](https://github.com/elicia4/wireshark-notes)
 - [Bash Notes](https://github.com/elicia4/bash-notes)
 - [Docker Notes](https://github.com/elicia4/docker-notes)
 - [Vim Notes](https://github.com/elicia4/vim-notes)
