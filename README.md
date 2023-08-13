@@ -1,4 +1,4 @@
-# About Me 🐒
+# About Me🐒
 
 - My main interests are system administration, Linux, and networking.
 - I am using Ubuntu and Arco as my main operating systems.
@@ -12,7 +12,7 @@
 - I know a bit of HTML, CSS, and Markdown. 
 - I've created simple graphics and games.
 
-# Notes 📃
+# Notes📃
 
 I make notes on different technologies and tools:
 
