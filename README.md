@@ -3,7 +3,7 @@
 - My main interests are Linux and networking.
 - I am using Ubuntu and Arco as my main operating systems.
 - I can configure a broad range of modern Linux distributions.
-- I can set up an Ubuntu Linux server.
+- I can set up a Ubuntu Linux server.
 - I can write simple Bash scripts to automate tasks.
 - Virtual machines (QEMU/Virt Manager) are an important part of my daily
   workflow.
