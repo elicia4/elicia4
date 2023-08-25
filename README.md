@@ -1,6 +1,6 @@
 # About Me🐒
 
-- My main interests are system administration, Linux, and networking.
+- My main interests are Linux and networking.
 - I am using Ubuntu and Arco as my main operating systems.
 - I can configure a broad range of modern Linux distributions.
 - I can set up an Ubuntu Linux server.
