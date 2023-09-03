@@ -16,13 +16,6 @@
 
 I make notes on different technologies and tools:
 
-- [OpenSSH](https://github.com/elicia4/openssh-notes)
-- [Firewall](https://github.com/elicia4/firewall-notes)
-- [Bash](https://github.com/elicia4/bash-notes)
-- [Docker](https://github.com/elicia4/docker-notes)
-- [Vim](https://github.com/elicia4/vim-notes)
 - [Linux](https://github.com/elicia4/linux-notes)
-- [Systemd](https://github.com/elicia4/systemd-notes)
-- [Git](https://github.com/elicia4/git-notes)
 - [Markdown](https://github.com/elicia4/markdown-notes)
 - [Networking](https://github.com/elicia4/networking-notes)
