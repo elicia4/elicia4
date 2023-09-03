@@ -17,5 +17,5 @@
 I make notes on different technologies and tools:
 
 - [Linux](https://github.com/elicia4/linux-notes)
-- [Markdown](https://github.com/elicia4/markdown-notes)
 - [Networking](https://github.com/elicia4/networking-notes)
+- [Markdown](https://github.com/elicia4/markdown-notes)
