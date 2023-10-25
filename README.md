@@ -1,9 +1,8 @@
 # About Me🐒
 
-- My main interests are Linux and networking.
-- I am using Ubuntu and Arco as my main operating systems.
+- I'm interested in Linux, networking, and programming.
 - I can configure a broad range of modern Linux distributions.
-- I can set up a Ubuntu Linux server.
+- I can set up a Linux server.
 - I can write simple Bash scripts to automate tasks.
 - Virtual machines (QEMU/Virt Manager) are an important part of my daily
   workflow.
@@ -14,8 +13,9 @@
 
 # Notes📃
 
-I make notes on different technologies and tools:
+I make notes on different technologies and tools, I also code sometimes:
 
 - [Linux](https://github.com/elicia4/linux-notes)
 - [Networking](https://github.com/elicia4/networking-notes)
+- [Small Python Projects](https://github.com/elicia4/python-projects)
 - [Markdown](https://github.com/elicia4/markdown-notes)
