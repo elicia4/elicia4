@@ -3,7 +3,8 @@
 - I'm interested in Linux, networking, and programming.
 - I can configure a broad range of modern Linux distributions.
 - I can set up a Linux server.
-- I can automate tasks with simple Bash scripts and Ansible playbooks.
+- I can automate tasks with simple Bash scripts, the cron scheduler, and
+  Ansible playbooks.
 - Virtual machines (QEMU/Virt Manager) are an important part of my daily
   workflow.
 - I have a basic understanding of Docker.
