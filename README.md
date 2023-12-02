@@ -1,4 +1,4 @@
-# About Me🐒
+# About Me
 
 - I'm interested in Linux, networking, and programming.
 - I can configure a broad range of modern Linux distributions.
@@ -12,7 +12,7 @@
 - I know a bit of HTML, CSS, and Markdown. 
 - I've created simple graphics and games.
 
-# Notes📃
+# Notes
 
 I make notes on different technologies and tools, I also code sometimes:
 
